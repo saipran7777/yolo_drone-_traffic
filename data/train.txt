@@ -1,4 +1,3 @@
-
 data/obj/1.jpg
 data/obj/105.jpg
 data/obj/107.jpg
